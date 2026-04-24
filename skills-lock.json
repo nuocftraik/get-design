@@ -5,6 +5,11 @@
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "computedHash": "6894a8e7c14df9b063925cb134c73b2ca8c912c015710ac36f2f250d7c7ab998"
+    },
+    "shadcn": {
+      "source": "shadcn/ui",
+      "sourceType": "github",
+      "computedHash": "03365c7543539f6e6689a754e65b3d8ea023ba9d6ea12a9b5550462bf060af8c"
     }
   }
 }
