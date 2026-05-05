@@ -402,21 +402,7 @@ The navigation uses semi-transparent white + backdrop blur:
 - **Don't** constrain the app map inside a container — it needs full viewport
 - **Don't** use pill-shaped buttons — the 8px rounded rectangle is the established shape
 
-## 9. Technology Stack
-
-| Layer | Technology | Notes |
-|-------|-----------|-------|
-| Framework | Next.js (App Router) | React Server Components for landing, Client Components for app |
-| Styling | Tailwind CSS v4 | OKLCH color tokens in CSS variables |
-| UI Library | shadcn/ui | Prebuilt component primitives |
-| Animations | tw-animate-css | Micro-animation utilities |
-| Typography | Geist Sans + Geist Mono | Variable fonts via `next/font` |
-| Maps | Mapbox GL JS | Full-bleed interactive mapping |
-| Icons | Lucide React | Consistent line-icon style |
-| State | Zustand | Client-side state management |
-| Deployment | Vercel | Edge-optimized hosting |
-
-## 10. CSS Variables Reference
+## 9. Design Tokens Reference
 
 ```css
 :root {
